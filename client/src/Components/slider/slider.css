@@ -1,0 +1,8 @@
+.slider
+{
+  height: 700px;
+  width: 800px;  
+  position: relative;
+  background-color: lightpink;
+  border-radius : 20px;
+}
